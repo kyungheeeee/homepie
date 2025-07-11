@@ -142,8 +142,8 @@ align-items:center;
 #post-list li {
     transition: background-color 0.3s ease, transform 0.2s ease; /* 전환 효과 */
     position: relative;
-    border-top: var(--stroke); /* 상단 테두리 */
-    padding-top: var(--spacing-xxs); /* 상단 패딩 4px */
+    border: var(--stroke); /* 상단 테두리 */
+    padding: var(--spacing-xxs); /* 상단 패딩 4px */
 }
 
 /* 게시물 항목 호버 시 */
