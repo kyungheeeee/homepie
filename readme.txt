@@ -34,6 +34,8 @@
     * 구글에서 스크립트 승인을 요청할 수 있습니다. 필요한 권한을 부여하려면 안내를 따르세요.
     * 배포가 완료되면 `웹 앱 URL`을 받게 됩니다. **이 URL을 복사하세요.** 다음 단계에서 필요합니다.
 
+>> https://script.google.com/macros/s/AKfycbwm763fmjrgmHHRPRcMGxi4BcYOwN0Q1q8mKB3EfRbdltWJIuLW8_53bArDHqxWLyg2pg/exec
+
 ---
 
 ## 3. 웹사이트와 앱스 스크립트 연결
