@@ -26,8 +26,8 @@
     --font-size-small: 0.8rem; /* 작은 텍스트 크기 (13px 기준 10.4px) */
     
     /* 색상 팔레트 */
-    --color-primary: rgb(128, 80, 255);   /* 주요 강조 색상 (노랑) */
-    --color-link: rgb(80, 255, 87);       /* 링크 색상 (파랑) */
+    --color-primary: rgb(175, 80, 255);   /* 주요 강조 색상 (노랑) */
+    --color-link: rgb(0, 255, 50);       /* 링크 색상 (파랑) */
     --color-text-primary: rgb(0, 0, 0);   /* 기본 텍스트 색상 (검정) */
     --color-background-light: rgb(230, 230, 230); /* 밝은 배경색 (회색) */
     
@@ -46,7 +46,7 @@
 
     /* 테두리 변수 (Border Variables) */
     --border-width-thin: 0.0625rem; /* 1px */
-    --border-style-dashed: solid;
+    --border-style-dashed: dashed;
     --border-style-solid: solid;
     --border-color-light: rgba(var(--color-text-primary-rgb), 0.15); /* 연한 테두리 색상 */
     --border-radius-default: 1rem; /* 기본 테두리 둥글기 (16px) */
