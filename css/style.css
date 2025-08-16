@@ -23,7 +23,7 @@
 :root {
     /* 폰트 변수 */
     --font-primary: 'Dongle-Regular', Courier, monospace, sans-serif;
-    --font-size-small: 0.8rem; /* 작은 텍스트 크기 (13px 기준 10.4px) */
+    --font-size-small: 1.2rem; /* 작은 텍스트 크기 (13px 기준 10.4px) */
     
     /* 색상 팔레트 */
     --color-primary: rgb(175, 80, 255);   /* 주요 강조 색상 (노랑) */
@@ -32,7 +32,7 @@
     --color-background-light: rgb(228, 240, 208); /* 밝은 배경색 (회색) */
     
     /* RGB 버전 (알파 투명도 사용 시) */
-    --color-primary-rgb: 248, 255, 80;
+    --color-primary-rgb: 161, 181, 216;
     --color-link-rgb: 0, 123, 255;   
     --color-text-primary-rgb: 0, 0, 0;
     --color-background-light-rgb: 230, 230, 230;
