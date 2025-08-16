@@ -8,8 +8,8 @@
 
 /* --- 웹 폰트 정의 (Web Font Definition) --- */
 @font-face {
-    font-family: 'Dongle-Regular';
-    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2108_2@1.0/Dongle-Regular.woff') format('woff');
+    font-family: 'IBMPlexSansKR-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     unicode-range: U+AC00-D7A3; /* 한글 유니코드 범위 */
@@ -22,8 +22,8 @@
 */
 :root {
     /* 폰트 변수 */
-    --font-primary: 'Dongle-Regular', Courier, monospace, sans-serif;
-    --font-size-small: 1.2rem; /* 작은 텍스트 크기 (13px 기준 10.4px) */
+    --font-primary: 'IBMPlexSansKR-Regular', Courier, monospace, sans-serif;
+    --font-size-small: 0.8rem; /* 작은 텍스트 크기 (13px 기준 10.4px) */
     
     /* 색상 팔레트 */
     --color-primary: rgb(175, 80, 255);   /* 주요 강조 색상 (노랑) */
